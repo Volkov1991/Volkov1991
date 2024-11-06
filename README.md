@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+![20qdoimr62i2xpfpaqiu650s9cp11lc3](https://github.com/user-attachments/assets/9434ed3d-0474-4e85-9611-74c647fd7985)
+
+
 https://t.me/Volkov91
 <!--
 **Volkov1991/Volkov1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...![Uploading 20qdoimr62i2xpfpaqiu650s9cp11lc3.png…]()
+
 - ⚡ Fun fact: ...
 -->
