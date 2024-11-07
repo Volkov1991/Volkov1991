@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-- ![20qdoimr62i2xpfpaqiu650s9cp11lc3](https://github.com/user-attachments/assets/9434ed3d-0474-4e85-9611-74c647fd7985)>
+[<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/Volkov91)
 
 
 https://t.me/Volkov91
