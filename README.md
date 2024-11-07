@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 [<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/Volkov91)
+[<image alt="Telegram" width="40" hspace="3" src="https://www.svgrepo.com/show/484995/email-part-2.svg"/>](mailto:vad.volkov91@gmail.com)
 
 
-https://t.me/Volkov91
 <!--
 **Volkov1991/Volkov1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
