@@ -47,4 +47,4 @@
 * [Шаблоны проектирования](https://github.com/SolonceNew/Certificates/blob/main/Шаблоны%20проектирования.pdf)
 * [Многопоточное и функциональное программирование](https://github.com/SolonceNew/Certificates/blob/main/Многопоточное%20и%20функциональное%20программирование.pdf)
 
-![](https://komarev.com/ghpvc/?username=Volkov1991)
+                                                                                                                            ![](https://komarev.com/ghpvc/?username=Volkov1991)
