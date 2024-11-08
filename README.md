@@ -38,8 +38,7 @@
 ## Мои сертификаты:
 
 * [Диплом о профессиональной переподготовке](https://github.com/SolonceNew/Certificates/blob/main/Диплом%20о%20профессиональной%20переподготовке.pdf)
-* [Основы Java](https://netology.ru/sharing/089cfe0e989d79165db34b8b845026a0?utm_source=social&utm_campaign=certificate_lms )
- 
+* [Основы Java](https://netology.ru/sharing/089cfe0e989d79165db34b8b845026a0?utm_source=social&utm_campaign=certificate_lms ) 
 * [Java Core](https://github.com/SolonceNew/Certificates/blob/main/Java%20Core.pdf)
 * [Алгоритмы](https://github.com/SolonceNew/Certificates/blob/main/Алгоритмы.pdf)
 * [Git](https://github.com/SolonceNew/Certificates/blob/main/git.pdf)
