@@ -28,18 +28,18 @@
 
 ---
 ## Мои проекты:
-#### [Облачное хранилище файлов](https://github.com/SolonceNew/Netology_Diploma)
+<!--#### [Облачное хранилище файлов](https://github.com/SolonceNew/Netology_Diploma)
 #### [Сервис по учёту аренды авто](https://github.com/SolonceNew/Rental_App)
 #### [Модуль фильтрации перелетов](https://github.com/SolonceNew/Flight_module)
 
 ---
 ## Решение задач по теме алгоритмы и структуры данных:
-#### [Алгоримы и структуры данных](https://github.com/SolonceNew/Algorithms/tree/main)
+#### [Алгоримы и структуры данных](https://github.com/SolonceNew/Algorithms/tree/main) -->
 
 ---
 ## Мои сертификаты:
 * [Диплом о профессиональной переподготовке](https://github.com/SolonceNew/Certificates/blob/main/Диплом%20о%20профессиональной%20переподготовке.pdf)
-* [Основы Java](https://github.com/SolonceNew/Certificates/blob/main/Основы%20Java.pdf)
+* [Основы Java](https://netology.ru/sharing/089cfe0e989d79165db34b8b845026a0?utm_source=social&utm_campaign=certificate_lms )
 * [Java Core](https://github.com/SolonceNew/Certificates/blob/main/Java%20Core.pdf)
 * [Алгоритмы](https://github.com/SolonceNew/Certificates/blob/main/Алгоритмы.pdf)
 * [Git](https://github.com/SolonceNew/Certificates/blob/main/git.pdf)
