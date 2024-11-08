@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 Технологии и инструменты, которыми я пользуюсь в разработке:
+### 💻🛠 Технологии и инструменты, которыми я пользуюсь в разработке:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij IDEA" alt="intellij IDEA" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp  
