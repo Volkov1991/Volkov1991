@@ -40,13 +40,13 @@
 ---
 ## Мои сертификаты:
 
-* [Диплом о профессиональной переподготовке](https://github.com/SolonceNew/Certificates/blob/main/Диплом%20о%20профессиональной%20переподготовке.pdf)
 * [Основы Java](https://github.com/Volkov1991/Certificates/blob/main/Основы%20Java.pdf) 
 * [Java Core](https://github.com/Volkov1991/Certificates/blob/main/Java%20Core.pdf)
-* [Web, Spring & Spring MVC](https://github.com/Volkov1991/Certificates/blob/main/Web%2C%20Spring%20%26%20Spring%20MVC.pdf)
-* [Spring Boot, deployment и инфраструктура](https://github.com/Volkov1991/Certificates/blob/main/Spring%20Boot%2C%20deployment%20и%20инфраструктура.pdf)
 * [Git](https://github.com/Volkov1991/Certificates/blob/main/Git%20—%20система%20контроля%20версий.pdf)
 * [Шаблоны проектирования](https://github.com/Volkov1991/Certificates/blob/main/Шаблоны%20проектирования.pdf)
 * [Многопоточное и функциональное программирование](https://github.com/Volkov1991/Certificates/blob/main/Многопоточное%20и%20функциональное%20программирование.pdf)
+* [Web, Spring & Spring MVC](https://github.com/Volkov1991/Certificates/blob/main/Web%2C%20Spring%20%26%20Spring%20MVC.pdf)
+* [Spring Boot, deployment и инфраструктура](https://github.com/Volkov1991/Certificates/blob/main/Spring%20Boot%2C%20deployment%20и%20инфраструктура.pdf)
+
 ---
 ![](https://komarev.com/ghpvc/?username=Volkov1991)
