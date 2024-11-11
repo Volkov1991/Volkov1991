@@ -3,7 +3,8 @@
 
 ### Меня зовут Вадим Волков, я Java developer👩🏻‍💻
 
-#### Если захотите со мной связаться - нажмите на значок👇
+<!--#### Если захотите со мной связаться - нажмите на значок👇-->
+#### Мои контакты👇
 
 [<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/Volkov91)
 [<image alt="Telegram" width="40" hspace="3" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png"/>](https://api.whatsapp.com/send?phone=79528880087)
