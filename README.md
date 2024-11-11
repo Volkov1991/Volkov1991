@@ -1,6 +1,7 @@
-### Добрый день или вечер👋
+<!-- ### Добрый день или вечер👋-->
+### Привет👋
 
-### Меня зовут Вадим Волков, и я Java developer👩🏻‍💻
+### Меня зовут Вадим Волков, я Java developer👩🏻‍💻
 
 #### Если захотите со мной связаться - нажмите на значок👇
 
@@ -27,9 +28,9 @@
   <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Thymeleaf" alt="thymeleaf" width="40" height="40"/>&nbsp;
  </div>
 
----
+<!-----
 ## Мои проекты:
-<!--#### [Облачное хранилище файлов](https://github.com/SolonceNew/Netology_Diploma)
+#### [Облачное хранилище файлов](https://github.com/SolonceNew/Netology_Diploma)
 #### [Сервис по учёту аренды авто](https://github.com/SolonceNew/Rental_App)
 #### [Модуль фильтрации перелетов](https://github.com/SolonceNew/Flight_module)
 
