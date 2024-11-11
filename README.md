@@ -24,8 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache maven" alt="Apache maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
-  <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Thymeleaf" alt="thymeleaf" width="40" height="40"/>&nbsp;
+  <!--<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Thymeleaf" alt="thymeleaf" width="40" height="40"/>&nbsp;-->
  </div>
 
 <!-----
