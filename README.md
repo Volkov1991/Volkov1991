@@ -49,6 +49,7 @@
 * [Многопоточное и функциональное программирование](https://github.com/Volkov1991/Certificates/blob/main/Многопоточное%20и%20функциональное%20программирование.pdf)
 * [Web, Spring & Spring MVC](https://github.com/Volkov1991/Certificates/blob/main/Web%2C%20Spring%20%26%20Spring%20MVC.pdf)
 * [Spring Boot, deployment и инфраструктура](https://github.com/Volkov1991/Certificates/blob/main/Spring%20Boot%2C%20deployment%20и%20инфраструктура.pdf)
+* [Хранение данных и организация безопасности](https://github.com/Volkov1991/Certificates/blob/main/certificate.pdf)
 
 ---
 ![](https://komarev.com/ghpvc/?username=Volkov1991)
