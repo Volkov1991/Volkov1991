@@ -42,7 +42,8 @@
 ---
 ## Мои сертификаты:
 
-* [Основы Java](https://github.com/Volkov1991/Certificates/blob/main/Основы%20Java.pdf) 
+* [Основы Java](https://github.com/Volkov1991/Certificates/blob/main/Основы%20Java.pdf)
+* [Основы ООП](https://github.com/Volkov1991/Certificates/blob/main/Основы%20ООП.pdf)
 * [Java Core](https://github.com/Volkov1991/Certificates/blob/main/Java%20Core.pdf)
 * [Git](https://github.com/Volkov1991/Certificates/blob/main/Git%20—%20система%20контроля%20версий.pdf)
 * [Шаблоны проектирования](https://github.com/Volkov1991/Certificates/blob/main/Шаблоны%20проектирования.pdf)
